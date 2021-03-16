@@ -3,7 +3,7 @@
 <a href="https://twitter.com/Tanmay881999?s=09">
   <img align="left" alt="Tanmay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/tanmay-saxena-337027194">
+<a href="www.linkedin.com/in/tanmay0808">
   <img align="left" alt="Tanmay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Tanmay0808">
@@ -12,7 +12,7 @@
 <a href="https://t.me/Tanmay881999">
   <img align="left" alt="Tanmay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/saxena.tanmay/">
+<a href="https://instagram.com/_tanmay_0808_/">
   <img align="left" alt="Tanmay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/tanmay.saxena.353/">
