@@ -3,7 +3,7 @@
 <a href="https://twitter.com/Tanmay881999?s=09">
   <img align="left" alt="Tanmay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/tanmay0808">
+<a href="https://linkedin.com/in/tanmay0808">
   <img align="left" alt="Tanmay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Tanmay0808">
