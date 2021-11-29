@@ -26,7 +26,7 @@
 
 ### Glad to see you here! 🤩 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Tanmay0808.Tanmay0808)
 
-I'm a 2nd year Post Grad student pursuing Master of Computer Applications 🎓 from Department of Computer Science, University of Delhi 🏛. I'm a full stack developer and a passionate learner who's always willing to learn and work across technologies and domains 💡.
+I'm a final year Post Grad student pursuing Master of Computer Applications 🎓 from Department of Computer Science, University of Delhi 🏛. I'm a full stack developer and a passionate learner who's always willing to learn and work across technologies and domains 💡.
 
 <br />
 
